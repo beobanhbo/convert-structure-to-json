@@ -1,5 +1,5 @@
 name: convert_structure_to_json
-description: A sample command-line application.
+description: A package to convert project structure to json format.
 version: 1.0.0
 repository: https://github.com/beobanhbo/convert-structure-to-json
 
