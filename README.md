@@ -1,6 +1,4 @@
-# Request for a Maintainer
-
-# [convert_structure_to_json](https://pub.dev/)
+# [convert_structure_to_json](https://pub.dev/packages/convert_structure_to_json)
 This package will generate the project structure into a json file.
 
 ## 💻 Installing with command line
